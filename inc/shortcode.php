@@ -141,8 +141,8 @@ function xevoq_calculator_shortcode( $atts ) {
 
 
               <div class="row">
-                <div class="column size_100">
                   <h2>Leave us your contact informations and we will call you within next bussiness day :</h2>
+                  <div class="column size_100">
                   <form>
                     <label for="email"><h3>Your e-mail:</h3></label>
                     <input
